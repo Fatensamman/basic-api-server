@@ -41,7 +41,7 @@
      Update a record using PUT
      Destroy a record using DELETE
  using `npm test `
- - testing lint using `npm run lint`
+
 
  ## Documentation:
  ![UML](3.PNG)
